@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(170, 7, 7);
+}
+
+.centrar {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: auto;
+    width: max-content;
+}
+
+.indices{
+    display: inline-block;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: white;
+    color: rgb(2, 2, 110);
+    background-color: rgb(44, 146, 187);
+    font-size: 20px;
+  }
+
+.logo{
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 30px;
+}
+
+.icono{
+padding-bottom: 25px;
+}
