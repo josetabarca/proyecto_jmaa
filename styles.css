@@ -25,6 +25,11 @@ button {
     font-size: 20px;
   }
 
+button:hover{
+    background-color: rgb(2, 2, 110);
+    color: rgb(44, 146, 187);
+}
+
 .logo{
     max-width: 250px;
     max-height: 250px;
